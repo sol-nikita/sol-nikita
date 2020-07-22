@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm frontend developer from Russia, but now I'm living in Thailand
+
 <!--
 **sol-nikita/sol-nikita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
