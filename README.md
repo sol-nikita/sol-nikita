@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm frontend developer from Russia, but now I'm living in Thailand
+I'm frontend developer from Russia
 
 ![Nikita's github stats](https://github-readme-stats.vercel.app/api?username=solnikita&count_private=true&show_icons=true&theme=radical)
 
